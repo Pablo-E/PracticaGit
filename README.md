@@ -7,7 +7,7 @@
 * O agregar links a algun lugar.:wink:
 [GitHub Link :point_left:](https://github.com/)
 
-_Esto es todo *amigos* despues le seguimos._
+_Esto es todo **amigos** despues le seguimos._
 
 @RigoBono Ya termine mi primer README
 
